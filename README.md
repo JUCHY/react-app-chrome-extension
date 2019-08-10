@@ -1,3 +1,16 @@
+# React Notes APP Chrome Extension
+
+Create Basic Chrome Extension using previously created serverless API to allow users to see notes created on top of browser
+
+### In Progress
+- [x] Get basic React App Working on Chrome Extensions
+- [ ] Connect to API from chrome extension
+- [ ] Connect Chrome Extension to Browser Dom
+- [ ] Format FrontEnd
+- [ ] Added any more improvements needed (i.e. Options Menu)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
